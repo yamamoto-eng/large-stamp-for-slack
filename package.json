@@ -1,0 +1,23 @@
+{
+  "name": "large-stamp-for-slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.57"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamamoto-eng/large-stamp-for-slack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamamoto-eng/large-stamp-for-slack/issues"
+  },
+  "homepage": "https://github.com/yamamoto-eng/large-stamp-for-slack#readme"
+}
